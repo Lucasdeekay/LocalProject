@@ -1,0 +1,7 @@
+1. Show game board
+2. Player starts game by inputting 'X' into the desired position
+3. If position is not occupied, fill it. Otherwise, loop till player
+    inputs into an empty position
+4. Change player and avatar to 'O' and vice versa
+5. Loop from 2 - 4 until all positions are filled
+6. State winner or if its a tie
